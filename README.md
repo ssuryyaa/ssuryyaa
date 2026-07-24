@@ -5,8 +5,7 @@
 <br/>
 
 <a href="mailto:gurusuryaaa@gmail.com"><img src="https://img.shields.io/badge/gurusuryaaa%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=F59E0B&labelColor=0F172A" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=F59E0B&labelColor=0F172A" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=profile%20views&color=F59E0B&style=flat-square" />
+<a href="https://www.linkedin.com/in/guru-suryasm/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=F59E0B&labelColor=0F172A" /></a>
 <img src="https://img.shields.io/badge/Kumaraguru%20College%20of%20Technology-0F172A?style=flat-square&labelColor=0F172A" />
 
 </div>
@@ -238,16 +237,17 @@ Always up for a build that solves something real — repos below, inbox open.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F59E0B&icon_color=F59E0B&text_color=CBD5E1&hide_title=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=0F172A&title_color=F59E0B&text_color=CBD5E1&langs_count=8" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ssuryyaa&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F59E0B&icon_color=F59E0B&text_color=CBD5E1&hide_title=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuryyaaE&layout=compact&hide_border=true&bg_color=0F172A&title_color=F59E0B&text_color=CBD5E1&langs_count=8" />
 
 <br/>
 
-<img height="150" src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true&background=0F172A&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=CBD5E1&dates=64748B&currStreakNum=F1F5F9&sideNums=F1F5F9&stroke=1E293B" />
+<img height="150" src="https://streak-stats.demolab.com?user=ssuryyaa
+&hide_border=true&background=0F172A&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=CBD5E1&dates=64748B&currStreakNum=F1F5F9&sideNums=F1F5F9&stroke=1E293B" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/snake.svg" alt="contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/ssuryyaa/ssuryyaa/output/snake.svg" alt="contribution snake" width="100%" />
 
 </div>
 
@@ -260,10 +260,10 @@ Always up for a build that solves something real — repos below, inbox open.
 <a href="mailto:gurusuryaaa@gmail.com">
   <img src="https://img.shields.io/badge/Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=0F172A&labelColor=F59E0B" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/guru-suryasm/">
   <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=F59E0B" />
 </a>
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/ssuryyaa">
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=F59E0B" />
 </a>
 
